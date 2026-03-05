@@ -1,0 +1,10 @@
+reports/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
+*.log
+*.save
+tutorial/
+PYTHON_DEEP_DIVE.md
